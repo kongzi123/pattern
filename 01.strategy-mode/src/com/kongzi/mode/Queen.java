@@ -1,5 +1,7 @@
 package com.kongzi.mode;
 
+import com.kongzi.mode.behavior.NothingBehavior;
+
 /**
  * 王后
  */

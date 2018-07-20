@@ -1,4 +1,4 @@
-package com.kongzi.mode;
+package com.kongzi.mode.behavior;
 
 /**
  * 武器行为
